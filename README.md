@@ -25,14 +25,14 @@ This program runs under the assumption that UCI dataset is in your current worki
 1. Obtain UCI dataset from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 2. unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 3. Make sure current working directory level is UCI HAR Dataset and that it contains
-	train/y_train.txt
-	train/X_train.txt
-	train/subject_train.txt
-	test/y_test.txt
-	test/X_test.txt
-    	test/subject_test.txt
-	README.txt
-	features.txt
-	features_info.txt
-	activity_labels.txt
-4. To run analysis code: run_analysis()
+- train/y_train.txt
+- train/X_train.txt
+- train/subject_train.txt
+- test/y_test.txt
+- test/X_test.txt
+- test/subject_test.txt
+- README.txt
+- features.txt
+- features_info.txt
+- activity_labels.txt
+4. To run analysis code source("/get_clean_data/run_analysis.R") and run_analysis()
